@@ -1,0 +1,2 @@
+# lightcheck-legal
+lightcheck legal
